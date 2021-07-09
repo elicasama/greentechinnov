@@ -17,6 +17,9 @@ html, body {
   height: 100%;
 }
 
+.bg-cursos {
+  background-color: #92c6ac44;
+}
 .floatleft {
   float: left;
 }
@@ -310,6 +313,25 @@ div#preloader {
   bottom: 0;
   background: rgba(0, 0, 0, 0.7);
 }
+
+.header-bg2 {
+  background: url(../img/background/page-header2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  padding: 120px 0 60px;
+}
+
+.header-bg2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.7);
+}
+
 
 @media (min-width: 1025px) {
   .header-bg {
