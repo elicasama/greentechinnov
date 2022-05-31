@@ -4,10 +4,9 @@ Green Tech Innovation es una consultora de sistemas que brinda una amplia gama d
 
 ## Proyecto 
 
-El proyecto consistió en analizar el sitio original de [Green Tech Innovario - Orignal - ](http://greentechinnov.net/) realizado en wordpress y realizar un prototipo de rediseño del sitio web en boostrap.
+El proyecto consistió en analizar el sitio [Green Tech Innovation - Original - ](http://greentechinnov.net/) realizado en wordpress y generar un prototipo de rediseño del sitio web en boostrap.
 
-El resultado del rediseño se puede observar en  [Green Tech Innovario](https://elicasama.github.io/greentechinnov/)
-
+El resultado del rediseño se puede observar en  [Green Tech Innovation](https://elicasama.github.io/greentechinnov/)
 
 
 ## Desafíos
@@ -21,7 +20,7 @@ En el proceso aprendí
 
 ## Créditos
 
-Muchas gracias al equipo de [Green Tech Innovario](http://greentechinnov.net/) por permitirme analizar su sitio.
+Muchas gracias al equipo de [Green Tech Innovation](http://greentechinnov.net/) por permitirme analizar su sitio.
 
 El diseño se basó en el template de boostrap con los créditos que se listan abajo.
 
